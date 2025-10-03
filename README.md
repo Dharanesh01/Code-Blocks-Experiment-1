@@ -9,7 +9,7 @@ To write and execute a program for the Go-Back-N protocol using the sliding wind
 
 • 	Personal Computer
 
-• 	Turbo C Compiler
+• 	Turbo C Compiler 
 
 📋 Procedure
 1. 	Connect two computers in a Wired/Wireless LAN.
