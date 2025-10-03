@@ -26,7 +26,7 @@ Add: netproto and pthread
 7. 	Choose the file and verify the Go-Back-N protocol operation.
 
 💻 Program
-
+```
 #include <stdio.h>
 
 #define window_size 4  // Assume 7 frames of data are to be sent using Go-Back-N ARQ
@@ -66,8 +66,10 @@ void main() {
 
     printf("\nAll frames sent successfully.\n");
 }
-🖥️ Sample Output
-<img width="1210" height="984" alt="code block 1" src="https://github.com/user-attachments/assets/e8e4b6d8-7bb3-454e-8e02-6349c08a432a" />
+```
+🖥️ Output
+<img width="1033" height="845" alt="image" src="https://github.com/user-attachments/assets/17d6d65b-1852-4a3c-a9f1-0c4337c9ad09" />
+
 
 ✅ Result
 
